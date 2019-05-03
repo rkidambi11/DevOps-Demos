@@ -58,7 +58,7 @@ Configure the node as shown here
    #!/bin/bash
    echo "_______________________________"
    echo "|                             |"
-   echo "|   Welcome to Valaxy Demo    |"
+   echo "|   Welcome to Paras Demo    |"
    echo "|           _nnnn_            |"
    echo "|          dGGGGMMb           |"
    echo "|         @p~qp~~qMb          |"
@@ -82,9 +82,9 @@ Configure the node as shown here
 1. Check "console output"
 
 ### Other Videos
- - [x] [Install and Configure Jenkins in AWS EC2](https://youtu.be/-0dkiteJEuE)
- - [x] [Configure Users & Groups in Jenkins](https://youtu.be/jZOqcB32dYM)
- - [x] [Secure your Jenkins Server](https://youtu.be/19FmJumnkDc)
- - [x] [Jenkins Plugin Installation](https://youtu.be/p_PqPBbjaZ4)
- - [x] [Jenkins Master-Slave Configuration](https://youtu.be/hwrYURP4O2k)
+ - [x] [Install and Configure Jenkins in AWS EC2]
+ - [x] [Configure Users & Groups in Jenkins]
+ - [x] [Secure your Jenkins Server]
+ - [x] [Jenkins Plugin Installation]
+ - [x] [Jenkins Master-Slave Configuration]
 
